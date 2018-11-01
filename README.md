@@ -26,12 +26,4 @@ The .txt files seemed simple enough, and I couldn't figure out tools in tools/, 
 1. `npm install`
 1. `./build.coffee rltiles-2d.txt rltiles-2d.png rltiles-2d.json`
 
-## License
-
-    Part of (or All) the graphic tiles used in this program is the public 
-    domain roguelike tileset "RLTiles".
-
-    You can find the original tileset at:
-    http://rltiles.sf.net
-
 See http://rltiles.sourceforge.net/ for more information about RL Tiles.
